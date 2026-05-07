@@ -1,7 +1,8 @@
 # 📦 Sistema de Controle de Estoque
 
-Projeto de **Nivelamento Java - POO (Programação Orientada a Objetos)**.
+Projeto de **Java - POO (Programação Orientada a Objetos)**.
 Este é um sistema de terminal (console) desenvolvido em Java para simular o controle de estoque de produtos, permitindo cadastros dinâmicos e geração de relatórios estatísticos.
+Desenvolvido durante as aulas do curso de Arquitetura de Sistemas pela FAT, ministrados pelo Professor Anderson Buenos
 
 ## 🚀 Funcionalidades
 
